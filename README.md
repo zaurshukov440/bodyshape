@@ -1,5 +1,8 @@
-# bodyshape
+# BodyShape
 
-BodyShape
-Адаптивная / кроссбраузерная верстка
-Проект построен на: HTML5 / CSS3 / JAVASCRIPT / SASS / GULP / БЭМ
+**BodyShape** — Адаптивная / кроссбраузерная верстка
+
+Проект построен с использованием:
+- **HTML5** и **CSS3**
+- **CSS Grid**, **clamp**, **clip-path**
+- Мобильная адаптация
